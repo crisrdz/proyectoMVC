@@ -1,0 +1,19 @@
+.carousel-img{
+    filter: brightness(30%);
+}
+
+.carousel-caption {
+    top: 40%;
+}
+
+.titulo{
+    bottom: 90%;
+}
+
+.viewport-height{
+    min-height: calc(100vh - 135px);
+}
+
+#footer-proyecto{
+    height: 75px;
+}
